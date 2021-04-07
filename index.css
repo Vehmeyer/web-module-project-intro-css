@@ -143,27 +143,12 @@ nav a{
     margin: 0 .1%;
 }
 
-/*
-.section3 image {
-    }
-*/
-
-
-
 /*section 4 styles*/
-.section4 img {
-    display: inline-block;
-    padding: 0
-    height: 35rem;
-    width: 100%;
-}
-/*
 .section4 {
-    display: inline-block;
-    max-width: 100%;
-    padding: 0;
+    height:48rem;
+    width:auto;
+    background-image: url("assets/footer_img.jpg");
 }
-*/
 
 /*footer styles*/
 footer {
