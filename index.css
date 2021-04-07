@@ -126,7 +126,6 @@ nav a{
 
 .section3 p {
     text-align: center;
-
 }
 
 .campfire {
@@ -136,33 +135,22 @@ nav a{
 
 .rvcamper {
     display:inline-block;
-    /*margin: 0 15% 20%;*/
-
 }
+
 .campfire p {
     margin: 0 .1%;
 }
 
 /*section 4 styles*/
 .section4 {
-    height:48rem;
-    width:auto;
     background-image: url("assets/footer_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:48rem;
+    width:100%;
 }
 
 /*footer styles*/
 footer {
     background-color: #F9E7DC;
 }
-
-
-/*
-.campfire p {
-    text-align: center;
-}
-
-.rvcamper p {
-    text-align:center;
-}
-*/
-
