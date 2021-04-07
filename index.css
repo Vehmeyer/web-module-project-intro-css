@@ -10,7 +10,7 @@ dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
 	outline: 0;
 	padding: 0;
 	margin: 0;
-		}
+	}
 /* remember to define focus styles! */
 :focus {
 	outline: 0;
@@ -48,10 +48,11 @@ html{
 body{
     font-size:1.6rem;
     line-height: 1.5;
-
+    font-family: 'Roboto Mono', monospace;
 }
 h1{
     font-size: 5rem;
+    font-family: 'Chelsea Market', cursive;
 }
 section{
     padding:4% 0;
@@ -79,8 +80,8 @@ nav a{
     margin: 0 24%;
 }
 .yellow{
-    background-attachment: #FFCD69;
-    margin: 10%;
+    background-color: #FFCD69;
+    margin-right: 10%;
 }
 
 /*top section styles*/
