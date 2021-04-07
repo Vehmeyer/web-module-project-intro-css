@@ -104,3 +104,14 @@ nav a{
     position:absolute;
     bottom: 20%;
 }
+
+/*section 2 styles*/
+.section2 {
+    color:#fff;
+    font-size:22px;
+    background-color:#DDB9A3;
+    padding:1% 4%;
+    margin:0 4%;
+    text-align:center;
+}
+
