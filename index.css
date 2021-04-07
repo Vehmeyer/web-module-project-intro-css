@@ -115,3 +115,69 @@ nav a{
     text-align:center;
 }
 
+/*section 3 styles*/
+.section3 {
+    margin: 0 40%
+}
+
+.boldtext {
+    font-weight: bold;
+}
+
+.section3 p {
+    text-align: center;
+
+}
+
+.campfire {
+    display:inline-block;
+    margin-bottom: 25%;
+}
+
+.rvcamper {
+    display:inline-block;
+    /*margin: 0 15% 20%;*/
+
+}
+.campfire p {
+    margin: 0 .1%;
+}
+
+/*
+.section3 image {
+    }
+*/
+
+
+
+/*section 4 styles*/
+.section4 img {
+    display: inline-block;
+    padding: 0
+    height: 35rem;
+    width: 100%;
+}
+/*
+.section4 {
+    display: inline-block;
+    max-width: 100%;
+    padding: 0;
+}
+*/
+
+/*footer styles*/
+footer {
+    background-color: #F9E7DC;
+}
+
+
+/*
+.campfire p {
+    text-align: center;
+}
+
+.rvcamper p {
+    text-align:center;
+}
+*/
+
